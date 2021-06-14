@@ -1,2 +1,2 @@
-Seung wan 20213014
+Seung wan	 20213014
 Kookmin Univ. SW
